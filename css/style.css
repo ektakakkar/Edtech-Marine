@@ -1,0 +1,56 @@
+.engg-img  .enginerring-images{
+margin-bottom: 12px;
+}
+
+
+/*.images{
+  width:60%;
+}*/
+
+.product-70{
+  width:70%;
+}
+
+.product-30{
+  width:30%;
+}
+
+
+.brand-img{
+  width:30%;
+}
+.navbar-inverse{
+  background-color: black;
+}
+/*.navbar{
+  min-height: 	200px;
+}*/
+a.navbar-brand{
+font-size: 35px;
+}
+
+ul.nav.navbar-nav.navbar-right{
+  margin-top:50px;
+}
+
+
+header#myCarousel.carousel.slide{
+  margin-top: 6%;
+}
+
+ol.breadcrumb{
+  margin-top: 16%
+}
+
+.desc b{
+  font-size: 15px;
+}
+
+.navbar-brand{
+  margin-top: 8%;
+}
+
+.h2, h2 {
+    font-size: 43px;
+    text-align: center
+}
