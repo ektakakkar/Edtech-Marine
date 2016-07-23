@@ -2,6 +2,10 @@
 margin-bottom: 12px;
 }
 
+a{
+  color: white;
+}
+
 
 /*.images{
   width:60%;
@@ -35,11 +39,11 @@ ul.nav.navbar-nav.navbar-right{
 
 
 header#myCarousel.carousel.slide{
-  margin-top: 6%;
+  margin-top: 5%;
 }
 
 ol.breadcrumb{
-  margin-top: 16%
+  margin-top: 10%
 }
 
 .desc b{
@@ -53,4 +57,94 @@ ol.breadcrumb{
 .h2, h2 {
     font-size: 43px;
     text-align: center
+}
+
+.navbar-fixed-top{
+    border-width: -19px 0 6px;
+}
+
+#logo1{
+  margin-top: -12%;
+}
+
+#ph1{
+  background-color:  #0033cc;
+  width: 100%;
+  margin: 0 0 20px;
+}
+
+#ph2{
+  background-color:  #0033cc;
+}
+
+#c1{
+
+  background-color:  #0033cc;
+  width: 100%;
+  margin: 0 0 20px;
+  height: 100px;
+  margin-top: 10px ;
+}
+
+#c2{
+
+  background-color:  #0033cc;
+  width: 100%;
+  margin-top: : 300%;
+  height: 100px;
+}
+
+#head{
+border-top: 1px solid lightgrey;
+}
+
+.color-blue{
+  background-color: #0033cc;
+}
+
+#pg1{
+  padding-bottom: 9px;
+  text-align: center;
+font-style: normal;
+margin:0 0 0;
+}
+
+#g1{
+font-size: 40px;
+margin-left: -40%;
+}
+
+#g2{
+  font-size: 40px;
+  margin-left: -71%;
+}
+
+#g3{
+  font-size: 40px;
+  margin-left: -39%;
+}
+
+#g4{
+  font-size: 40px;
+  margin-left: -58%;
+}
+
+#g5{
+  font-size: 40px;
+  margin-left: -45%;
+}
+
+#im1{
+  margin-left: 65%;
+  border: 2px solid black;
+}
+
+#im2{
+  margin-left: 65%;
+  border: 2px solid black;
+}
+
+#im3{
+  margin-left: 65%;
+  border: 2px solid black;
 }
